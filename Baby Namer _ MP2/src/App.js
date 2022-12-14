@@ -151,7 +151,7 @@ function App() {
       console.log('Min:' + min);
       console.log('Random:' + random);
     } else {
-      alert('Tem que ter um ou mais nomes guardados para começar uma luta ;)');
+      alert('Tem que ter 2 ou mais nomes guardados para começar uma luta ;)');
     }
   };
 
